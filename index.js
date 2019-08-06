@@ -8,3 +8,7 @@ function login(){
 }
 
 console.log("Commit one");
+
+function deleteVehicle(){
+    console.log("vehicle deleted");
+}
