@@ -6,3 +6,5 @@ function triggerHelpMenu(){
 function login(){
     console.log("user added");
 }
+
+console.log("Commit one");
